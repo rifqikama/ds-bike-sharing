@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import datetime
 import seaborn as sns
 # ----------Data Source----------#
-day_df = pd.read_csv('https://github.com/halycon77/ds-bike-sharing/blob/67cc1fedbacb565ecc591e15ebe54c1d22ab7274/day.csv')
-hour_df = pd.read_csv('https://github.com/halycon77/ds-bike-sharing/blob/67cc1fedbacb565ecc591e15ebe54c1d22ab7274/hour.csv')
+day_df = pd.read_csv('day.csv')
+hour_df = pd.read_csv('hour.csv')
 # ----------Data Source----------#
 
 # ----------Data Cleaning----------#
