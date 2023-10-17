@@ -7,6 +7,6 @@ py -m pip install streamlit pandas numpy matplotlib seaborn
 
 ## Run streamlit app
 ```cmd
-py -m streamlit run master-dashboard.cmd
+py -m streamlit run master-dashboard.py
 ```
-[Streamlit APP](https://ds-bike-sharing-j9tu3t7zkdzzpkkkqv9w4h.streamlit.app/)
+[Click here to access the streamlit app.](https://ds-bike-sharing-j9tu3t7zkdzzpkkkqv9w4h.streamlit.app/)
